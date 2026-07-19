@@ -1,0 +1,59 @@
+# Node dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+.vite/
+out/
+
+# Vite / cache / coverage
+.cache/
+coverage/
+.nyc_output/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Keys / certs / private artifacts
+*.pem
+*.key
+*.crt
+*.p12
+*.jks
+secrets.*
+credentials.json
+key.pem
+
+# Chrome extension packaging / local artifact
+*.zip
+*.crx
+/.chrome/
+
+# Temporary / misc
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Optional: do NOT ignore lockfiles — keep for reproducible installs
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
