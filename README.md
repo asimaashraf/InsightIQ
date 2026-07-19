@@ -97,7 +97,7 @@ A quick overview of InsightIQ in action.
 
 ### 🏠 Home
 
-<img src="screenshots/01-home.png" width="450" alt="Home"/>
+<img src="screenshots/home.png" width="430" alt="InsightIQ Home Screen"/>
 
 Modern side panel with quick actions and page context.
 
@@ -107,9 +107,9 @@ Modern side panel with quick actions and page context.
 
 ### 📄 AI Page Summary
 
-<img src="screenshots/02-page-summary.png" width="450" alt="AI Page Summary"/>
+<img src="screenshots/page-summary.png" width="430" alt="AI Page Summary"/>
 
-Summarize any webpage with AI-powered insights.
+Summarize webpages and extract useful insights instantly.
 
 </td>
 
@@ -121,9 +121,9 @@ Summarize any webpage with AI-powered insights.
 
 ### 💻 Developer Documentation
 
-<img src="screenshots/03-developer-docs.png" width="450" alt="Developer Documentation"/>
+<img src="screenshots/developer-docs.png" width="430" alt="Developer Documentation Assistant"/>
 
-Understand technical documentation with AI.
+Understand technical documentation and programming concepts.
 
 </td>
 
@@ -131,9 +131,9 @@ Understand technical documentation with AI.
 
 ### 📂 File Analysis
 
-<img src="screenshots/04-file-analysis.png" width="450" alt="File Analysis"/>
+<img src="screenshots/file-analysis.png" width="430" alt="File Analysis"/>
 
-Analyze documents and extract key insights.
+Analyze uploaded documents and extract the most important points.
 
 </td>
 
@@ -143,11 +143,11 @@ Analyze documents and extract key insights.
 
 <td align="center" width="50%">
 
-### 💬 Chat History
+### 💬 Chat History & Export
 
-<img src="screenshots/05-chat-history.png" width="450" alt="Chat History"/>
+<img src="screenshots/chat-history.png" width="430" alt="Chat History and Export"/>
 
-Manage and export previous conversations.
+Manage previous conversations and export chats in multiple formats.
 
 </td>
 
@@ -155,14 +155,13 @@ Manage and export previous conversations.
 
 ### ⚙️ Settings
 
-<img src="screenshots/06-settings.png" width="450" alt="Settings"/>
+<img src="screenshots/settings.png" width="430" alt="InsightIQ Settings"/>
 
-Configure AI providers and personalize the extension.
+Configure AI providers and securely manage API keys.
 
 </td>
 
 </tr>
-
 </table>
 
 ---
