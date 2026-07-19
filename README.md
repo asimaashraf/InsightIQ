@@ -670,7 +670,7 @@ AI Engineer • MERN Stack Developer • Machine Learning Enthusiast
 ### Connect with me
 
 - GitHub: https://github.com/asimaashraf
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/asima-ashraf-73729a32b/
 - Email: aasimaashraf899@gmail.com
 
 ---
