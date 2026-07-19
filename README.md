@@ -92,65 +92,80 @@ A quick overview of InsightIQ in action.
 
 <table>
 <tr>
-<td align="center">
 
-### 🖥️ Side Panel
+<td align="center" width="50%">
 
-<img src="screenshots/main-sidepanel.png" width="100%"/>
+### 🏠 Home
 
-Context-aware AI assistant integrated directly into the browser.
+<img src="screenshots/01-home.png" width="450" alt="Home"/>
+
+Modern side panel with quick actions and page context.
+
+</td>
+
+<td align="center" width="50%">
+
+### 📄 AI Page Summary
+
+<img src="screenshots/02-page-summary.png" width="450" alt="AI Page Summary"/>
+
+Summarize any webpage with AI-powered insights.
 
 </td>
 
-<td align="center">
-
-### 📄 Page Context
-
-<img src="screenshots/page-context.png" width="100%"/>
-
-AI understands the active webpage and answers contextual questions.
-
-</td>
 </tr>
 
 <tr>
-<td align="center">
 
-### ⚡ Smart Actions
+<td align="center" width="50%">
 
-<img src="screenshots/smart-actions.png" width="100%"/>
+### 💻 Developer Documentation
 
-Safe AI-powered browser actions with user confirmation.
+<img src="screenshots/03-developer-docs.png" width="450" alt="Developer Documentation"/>
+
+Understand technical documentation with AI.
 
 </td>
 
-<td align="center">
+<td align="center" width="50%">
+
+### 📂 File Analysis
+
+<img src="screenshots/04-file-analysis.png" width="450" alt="File Analysis"/>
+
+Analyze documents and extract key insights.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 💬 Chat History
+
+<img src="screenshots/05-chat-history.png" width="450" alt="Chat History"/>
+
+Manage and export previous conversations.
+
+</td>
+
+<td align="center" width="50%">
 
 ### ⚙️ Settings
 
-<img src="screenshots/settings.png" width="100%"/>
+<img src="screenshots/06-settings.png" width="450" alt="Settings"/>
 
 Configure AI providers and personalize the extension.
 
 </td>
-</tr>
 
-<tr>
-<td colspan="2" align="center">
-
-### 📱 Compact Popup
-
-<img src="screenshots/compact-popup.png" width="70%"/>
-
-Lightweight popup experience for quick interactions.
-
-</td>
 </tr>
 
 </table>
 
 ---
-
 # 🎥 Demo
 
 Watch InsightIQ in action.
