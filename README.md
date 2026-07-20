@@ -169,7 +169,7 @@ Configure AI providers and securely manage API keys.
 
 Watch InsightIQ in action.
 
-> 📹 **Demo Video:** *(Add your YouTube or Google Drive link here)*
+> 📹 **Demo Video:** https://youtu.be/lr9xOARsjLc
 
 The demo showcases:
 
